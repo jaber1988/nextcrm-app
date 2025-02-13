@@ -6,9 +6,10 @@
   "ModuleMenu": {
     "dashboard": "Dashboard",
     "crm": {
-      "title": "Sales",
+      "title": "Accounts Management",
       "accounts": "Companies",
-      "opportunities": "Opportunities",
+      "opportunities": "Tax Returnees",
+
       "contacts": "Contacts",
       "leads": "Leads",
       "contracts": "Contracts"
